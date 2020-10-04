@@ -39,4 +39,4 @@ This work is licensed under the [MIT License](./LICENSE).
 
 ## Author Information
 
-- [Author Name (nickname)](github profile) _givenname.familyname at stuvus.uni-stuttgart.de_
+- [Author Name (nickname)](github profile) _givenname.familyname at fius.informatik.uni-stuttgart.de_
